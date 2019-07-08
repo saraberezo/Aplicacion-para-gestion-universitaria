@@ -1,0 +1,49 @@
+23
+Programacion II
+P-II
+34
+1
+2
+1
+1 X 9; 2 L 9; 3 V 11
+1 L 11; 2 X 11
+*
+1
+Programacion I
+P-I
+
+
+2
+2
+1 M 15; 2 L 15; 3 V 19
+1 L 17; 2 X 16; 3 J 15; 4 J 17
+*
+45
+Comunicacion de Datos
+CD
+
+1
+2
+
+1 L 13; 2 M 13; 3 X 13; 4 J 13
+
+*
+87
+Redes de Ordenadores
+RO
+
+23, 45, 10
+1
+2
+1 M 9; 2 V 9; 3 J 9 
+1 M 11; 2 J 11; 3 X 18 
+*
+10
+Arquitectura de Ordenadores
+AO
+
+1
+1
+1
+1 L 12; 2 X 12; 3 V 13; 4 V 14
+1 L 19; 2 M 17; 3 M 18; 4 V 15

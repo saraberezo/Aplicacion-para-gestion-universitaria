@@ -1,0 +1,69 @@
+34
+profesor
+Juan Manuel
+Perez Rodriguez
+07/09/1966
+titular
+Ingenieria Telematica
+14
+23 T 1
+*
+23
+alumno
+Miguel
+Alonso Dominguez
+08/01/1987
+09/02/2010
+1
+6.20
+23; 10 T 2
+*
+19
+alumno
+Juan 
+Alonso Perez
+29/2/1992
+12/12/2012
+
+
+10 T 2; 23 P 1; 45 T 1
+*
+3
+profesor
+Pedro
+Casas Dominguez
+17/11/1962
+interino
+Matematica Aplicada
+10
+
+*
+87
+alumno
+Maria Luisa
+Castro Gago
+11/11/1988
+12/12/2012
+10, 45
+7.30
+
+*
+2
+profesor
+Antia
+de la Costa Gonzalez
+10/10/1970
+interino
+Ingenieria Telematica
+10
+45 T 4; 87 P 2; 87 P 3; 87 P 1; 10 P 4
+*
+100
+profesor
+Luis Miguel
+Miguez Miguez
+17/08/1980
+titular
+Teoria de la Senhal y Comunicaciones
+12
+45 T 1; 45 T 2; 45 T 3
